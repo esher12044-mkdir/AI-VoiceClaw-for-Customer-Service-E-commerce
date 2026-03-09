@@ -1,0 +1,5 @@
+{
+  "name": "AI Lite Customer Service Dashboard",
+  "description": "A dashboard for managing AI-handled customer service calls, viewing tasks, and monitoring call volume.",
+  "requestFramePermissions": []
+}
